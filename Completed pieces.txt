@@ -1,0 +1,15 @@
+well, we aren't nearly as done as I wanted to be.
+
+
+I built:
+
+	pathfinding, 
+	2 enemy types,
+	player movement and shooting
+	HUD - score is working, health is not. Actually having lots of trouble with health
+	lots of materials - the bullets are my favorite. they have moving images on them. 
+
+errors
+	sometimes the enemies just seem to ride the bullets. 
+	my_bullet takes away player health
+	enemy_charger only sometimes damages player. 
